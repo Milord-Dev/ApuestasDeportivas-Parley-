@@ -1,0 +1,12 @@
+/* frontend/css/input.css */
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Aquí puedes añadir tu CSS personalizado, si lo deseas.
+Ejemplo:
+.custom-button {
+@apply px-4 py-2 bg-blue-500 text-white rounded;
+}
+*/
